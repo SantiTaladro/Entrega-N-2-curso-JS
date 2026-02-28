@@ -1,0 +1,5 @@
+
+.card { transition: transform 0.2s ease-in-out; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: none; }
+.card:hover { transform: scale(1.03); box-shadow: 0 8px 16px rgba(0,0,0,0.2); }
+#carrito-lista { border-left: 3px solid #212529; background-color: #f8f9fa; }
+#mensaje .alert { font-weight: bold; text-align: center; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
